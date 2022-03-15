@@ -1,0 +1,1 @@
+cat ../../data/kn-ta/ta_combined.txt
