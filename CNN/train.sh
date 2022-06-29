@@ -11,7 +11,7 @@
 # --max_tokns           -> this is max tokens per batch
 
 
-( CUDA_VISIBLE_DEVICES=0 ../../data/final_bin \
+( CUDA_VISIBLE_DEVICES=0 fairseq-train ../../data/final_bin \
 --max-epoch=25 \
 --arch=fconv \
 --criterion=label_smoothed_cross_entropy \
