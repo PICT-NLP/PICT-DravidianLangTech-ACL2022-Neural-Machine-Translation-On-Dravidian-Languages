@@ -7,6 +7,6 @@ This paper presents a summary of the findings that we obtained based on the shar
 
 ## Dataset
 
-- Official Dataset : [DravidianLangTech-2022 Dataset](https://github.com/PICT-NLP/PICT-DravidianLangTech-ACL2022-Neural-Machine-Translation-On-Dravidian-Languages/tree/main/DravidianLangTech-2022%20dataset)
+- DravidianLangTech-2022 Official Dataset : https://competitions.codalab.org/competitions/36411#learn_the_details-get-data
 
 - Monolingual Data for backtranslation : https://indicnlp.ai4bharat.org/corpora/
